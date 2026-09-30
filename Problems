@@ -22,7 +22,7 @@ PG2025 = 18800
 PG2026 = 2000
 Others = 6300
 Supporter_Hussain = 10000
-HDFC_Bank_LoanProcessingFees = 8172
+HDFC_Bank_LoanProcessingFees = 8100
 Tax_Deducted_Source = 7064 + 7506 + 7506
 
 Eyes = DarkCircles
