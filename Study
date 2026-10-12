@@ -1,0 +1,25 @@
+[Courses]
+1571 Files , 50 Folders
+
+[WebSites]
+0 = 54
+1 = 107
+2 = 64
+
+[ScreenshotS]
+Ansible = 93
+Docker = 1082
+Jenkins = 17
+Kubernetes = 378
+Packer = 85
+PAPERS = 122
+Terraform = 251
+Vagrant = 67
+
+[Videos]
+2025 = 36
+Amazon Web Services (AWS) = 490
+Azure = 60
+DevSecOps = 359
+GitHub = 72
+GitLab = 50
